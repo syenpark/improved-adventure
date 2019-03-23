@@ -1,7 +1,7 @@
 # improved-adventure
 Data Structures &amp; Algorithms in Python
 
-CS directory contains general interview preparation materials by Udacity for technical positoion.
+This repository contains general interview preparation materials by Udacity for technical positoion.
 
 1. Introduction and Efficiency
 Course Introduction
