@@ -1,58 +1,32 @@
 # improved-adventure
 
-This repository contains general interview preparation materials mostly provided by Udacity for data scientist positoion.
+This repository contains general interview preparation materials mostly provided by Udacity for data scientist positoion and is written in PyThon.
 
 ## Computer Science Fundamentals and Programming Topics
+- Data Structures
+  * Lists
+  * Stacks
+  * Queues
+  * Strings
+  * Hash Maps
+  * Vectors
+  * Matrices
+  * Classes & Objects
+  * Trees
+  * Graphs
 
-## Probability and Statistics Topics
+- Algorithms
+- Computability and Complexity
+- Computer Architecture
 
-## Data Modeling and Evaluation Topics
+## _Probability and Statistics Topics_
+- Basic Probability
+  * Conditional Probability
 
-## Applying Machine Learning Algorithms and Libraries Topics
+## _Data Modeling and Evaluation Topics_
+
+## _Applying Machine Learning Algorithms and Libraries Topics_
 
 ## Software Engineering and System Design Topics
 
-### Data Structure &amp; Algorithms in Python
-1. Introduction and Efficiency
-Course Introduction
-Syntax
-Efficiency
-Notation of Efficiency
-2. List-Based Collections
-Lists/Arrays
-Linked Lists
-Stacks
-Queues
-3. Searching and Sorting
-Binary Search
-Recursion
-Bubble Sort
-Merge Sort
-Quick Sort
-4. Maps and Hashing
-Maps
-Hashing
-Collisions
-Hashing Conventions
-5. Trees
-Trees
-Tree Traversal
-Binary Trees
-Binary Search Trees
-Heaps
-Self-Balancing Trees
-6. Graphs
-Graphs
-Graph Properties
-Graph Representation
-Graph Traversal
-Graph Paths
-7. Case Studies in Algorithms
-Shortest Path Problem
-Knapsack Problem
-Traveling Salesman Problem
-8. Technical Interview Tips
-Mock Interview Breakdown
-Additional Tips
-Practice with Pramp
-Next Steps
+References: [What is Data Science? 8 Skills That Will Get You Hired in Data](https://blog.udacity.com/2014/11/data-science-job-skills.html)
