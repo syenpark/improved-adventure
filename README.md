@@ -138,6 +138,7 @@ These topics are important to understand machine learning theories.
       * [SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
       * [Postgres Cheatsheet](https://github.com/syenpark/improved-adventure/blob/master/doc/Postgres.md)
     * NoSQL: Popular for web based data rather than for spreadsheets. For instance, MongoDB.
+      * [MongoDB Cheatsheet](https://gist.github.com/aponxi/4380516)
 
 - User Interface
   * Data Visualization
