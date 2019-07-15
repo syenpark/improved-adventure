@@ -132,7 +132,7 @@ These topics are important to understand machine learning theories.
 
 ## Software Engineering and System Design Topics
 - Software Interface
-  * Database
+  * Database; [SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 
 - User Interface
   * Data Visualization
