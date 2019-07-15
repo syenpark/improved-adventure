@@ -1,8 +1,18 @@
 # improved-adventure
-Data Structures &amp; Algorithms in Python
 
-This repository contains general interview preparation materials by Udacity for technical positoion.
+This repository contains general interview preparation materials mostly provided by Udacity for data scientist positoion.
 
+## Computer Science Fundamentals and Programming Topics
+
+## Probability and Statistics Topics
+
+## Data Modeling and Evaluation Topics
+
+## Applying Machine Learning Algorithms and Libraries Topics
+
+## Software Engineering and System Design Topics
+
+### Data Structure &amp; Algorithms in Python
 1. Introduction and Efficiency
 Course Introduction
 Syntax
