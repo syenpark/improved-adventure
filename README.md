@@ -108,12 +108,40 @@ These topics are important to understand machine learning theories.
 
 ## _Applying Machine Learning Algorithms and Libraries Topics_
 - Models
+  * Parametric VS. Nonparametric
+  * Decision Tree
+  * Nearest Neighbor
+  * Neural Net
+  * Support Vector Machine
+  * Ensemble of Multiple Models
 
 - Learning Procedure
+  * Linear Regression
+  * Gradient Descent
+  * Genetic Algorithms
+  * Bagging
+  * Boosting
+  * Regularization
+  * Hyperparameter Tuning
 
 - Tradeoffs and gotchas
-
+  * Bias and Variance
+  * Overfitting and Underfitting
+  * Vanishing/Exploding Gradients
 
 ## Software Engineering and System Design Topics
+- Software Interface
+  * Database
+
+- User Interface
+  * Data Visualization
+
+- Scalability
+  * Map-reduce
+  * Distributed Processing
+
+- Deployment
+  * Cloud Hosting  
+
 
 References: [What is Data Science? 8 Skills That Will Get You Hired in Data](https://blog.udacity.com/2014/11/data-science-job-skills.html)
