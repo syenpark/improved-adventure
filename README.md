@@ -132,7 +132,10 @@ These topics are important to understand machine learning theories.
 
 ## Software Engineering and System Design Topics
 - Software Interface
-  * Database; [SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
+  * Database: A collection of tables that share connected data store in a computer.
+    * Entity Relationship Diagram (ERD): A diagram that shows how data is structured in a database.
+    * Structured Query Languages (SQL): A language that allows us to access data stored in a database. [SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
+    * 
 
 - User Interface
   * Data Visualization
