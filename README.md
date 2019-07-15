@@ -2,6 +2,9 @@
 
 This repository contains general interview preparation materials mostly provided by Udacity for data scientist positoion and is written in PyThon.
 
+![alt text](https://i2.wp.com/blog.udacity.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png?zoom=2&resize=640%2C521&ssl=1 "Table 1 to compare jobs related data")
+
+
 ## Computer Science Fundamentals and Programming Topics
 - Data Structures
   * Lists
